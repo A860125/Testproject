@@ -1,0 +1,4 @@
+﻿  Source.cpp
+G:\ПВ011\Project13\Source.cpp(143,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+G:\ПВ011\Project13\Source.cpp(76): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+  Project13.vcxproj -> G:\ПВ011\Project13\Debug\Project13.exe
